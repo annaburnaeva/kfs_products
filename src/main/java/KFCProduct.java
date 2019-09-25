@@ -1,4 +1,4 @@
-public class kfsProduct {
+public class KFCProduct {
     long id;
     String name;
     String image;
@@ -9,6 +9,4 @@ public class kfsProduct {
     double proteins;
     double fats;
     double carbohydrates;
-
-
 }

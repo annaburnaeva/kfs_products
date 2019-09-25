@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        kfsProduct twisterDeLuxSpicy = new kfsProduct();
+        KFCProduct twisterDeLuxSpicy = new KFCProduct();
         twisterDeLuxSpicy.id = 2534;
         twisterDeLuxSpicy.name = "Твистер Де Люкс острый";
         twisterDeLuxSpicy.description = "Любимый Твистер теперь Де Люкс: пшеничная лепешка с сочными острыми куриными стрипсами в панировке, с горчицей, кетчупом, беконом, луком, сыром эменталер, маринованными огурчиками и свежим салатом";
@@ -12,7 +12,7 @@ public class Main {
         twisterDeLuxSpicy.carbohydrates = 23.7;
 
 //
-        kfsProduct cheeseburger = new kfsProduct();
+        KFCProduct cheeseburger = new KFCProduct();
         cheeseburger.id = 2336;
         cheeseburger.name = "Чизбургер";
         cheeseburger.description = "Пряный горчичный соус, кетчуп, сочные стрипсы в оригинальной панировке, лук, сыр Чеддер, огурцы на пшеничной булочке с кукурузной посыпкой.";
